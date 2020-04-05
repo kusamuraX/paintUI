@@ -26,7 +26,7 @@
     "postinstall": "npm run lint:fix"
   },
   "dependencies": {
-    "acorn": "^6.3.0",
+    "acorn": "^6.4.1",
     "axios": "^0.18.1",
     "bootstrap": "^4.3.1",
     "bootstrap-vue": "^2.0.2",

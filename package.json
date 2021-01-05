@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "acorn": "^6.3.0",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "bootstrap-vue": "^2.0.2",
     "sockjs": "^0.3.19",
